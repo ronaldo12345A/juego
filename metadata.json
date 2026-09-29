@@ -1,0 +1,6 @@
+{
+  "name": "CyberGuard: Quiz de Ciberseguridad",
+  "description": "Simulador interactivo de amenazas y ciberdefensa con misiones tácticas, análisis de vulnerabilidades y sistema de rangos SOC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
